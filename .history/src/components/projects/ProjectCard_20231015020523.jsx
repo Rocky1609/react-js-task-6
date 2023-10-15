@@ -8,7 +8,7 @@ import ReactMarkdown from 'react-markdown';
 
 const styles = {
   badgeStyle: {
-    paddingLeft: 12,
+    paddingLeft: 10,
     paddingRight: 10,
     paddingTop: 5,
     paddingBottom: 5,
