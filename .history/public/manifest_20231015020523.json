@@ -1,9 +1,9 @@
 {
-  "short_name": "Sai Rakesh",
-  "name": "Sai Rakesh - Portfolio",
+  "short_name": "Mayank Agarwal",
+  "name": "Mayank Agarwal - Portfolio",
   "icons": [
     {
-      "src": "images/myphoto.png",
+      "src": "images/logo.png",
       "type": "image/png",
       "sizes": "425x225"
     }

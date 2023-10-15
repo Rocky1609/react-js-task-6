@@ -2,15 +2,15 @@
     "social": [
         {
             "network" : "linkedin",
-            "href": "https://www.linkedin.com/in/sai-rakesh-marlapati-8a596b231/"
+            "href": "https://linkedin.com/"
         },
         {
             "network" : "github",
-            "href": "https://github.com/Rocky1609"
+            "href": "https://github.com/mayankagarwal09"
         },
         {
             "network" : "email",
-            "href": "mailto:sairakesh419@gmail.com"
+            "href": "mailto:test@test.com"
         }
     ]
 }

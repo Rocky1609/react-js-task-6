@@ -43,7 +43,7 @@
         {
             "image" : "images/projects/project3.png",
             "title": "Color Picker",
-            "bodyText": "- An Color Picker App that is used to pick colors you want and it displays the color you click \n - deployed on **vercel** using **Github**.",
+            "bodyText": "- An Color Picker App that is used to pick colors you want and it displays the color you click \n - deployed on **vercel** using .",
             "links": [
                 {
                     "text": "GitHub",

@@ -43,7 +43,10 @@
         {
             "title" : "Tools & Platforms",
             "items": [
-                
+                {
+                    "icon": "images/skills/android-studio.png",
+                    "title": "Android Studio"
+                },
                 {
                     "icon": "images/skills/git.png",
                     "title": "Git"

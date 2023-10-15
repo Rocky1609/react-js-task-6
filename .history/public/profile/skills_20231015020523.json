@@ -29,7 +29,10 @@
         {
             "title": "Frameworks & Technologies",
             "items" : [
-                
+                {
+                    "icon": "images/skills/android_new.png",
+                    "title": "Android"
+                },
                 {
                     "icon": "images/skills/react.png",
                     "title": "React"
@@ -43,7 +46,10 @@
         {
             "title" : "Tools & Platforms",
             "items": [
-                
+                {
+                    "icon": "images/skills/android-studio.png",
+                    "title": "Android Studio"
+                },
                 {
                     "icon": "images/skills/git.png",
                     "title": "Git"
